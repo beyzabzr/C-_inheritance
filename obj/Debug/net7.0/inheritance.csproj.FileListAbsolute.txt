@@ -1,0 +1,14 @@
+C:\Users\beyza\Desktop\C#\inheritance\bin\Debug\net7.0\inheritance.exe
+C:\Users\beyza\Desktop\C#\inheritance\bin\Debug\net7.0\inheritance.deps.json
+C:\Users\beyza\Desktop\C#\inheritance\bin\Debug\net7.0\inheritance.runtimeconfig.json
+C:\Users\beyza\Desktop\C#\inheritance\bin\Debug\net7.0\inheritance.dll
+C:\Users\beyza\Desktop\C#\inheritance\bin\Debug\net7.0\inheritance.pdb
+C:\Users\beyza\Desktop\C#\inheritance\obj\Debug\net7.0\inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beyza\Desktop\C#\inheritance\obj\Debug\net7.0\inheritance.AssemblyInfoInputs.cache
+C:\Users\beyza\Desktop\C#\inheritance\obj\Debug\net7.0\inheritance.AssemblyInfo.cs
+C:\Users\beyza\Desktop\C#\inheritance\obj\Debug\net7.0\inheritance.csproj.CoreCompileInputs.cache
+C:\Users\beyza\Desktop\C#\inheritance\obj\Debug\net7.0\inheritance.dll
+C:\Users\beyza\Desktop\C#\inheritance\obj\Debug\net7.0\refint\inheritance.dll
+C:\Users\beyza\Desktop\C#\inheritance\obj\Debug\net7.0\inheritance.pdb
+C:\Users\beyza\Desktop\C#\inheritance\obj\Debug\net7.0\inheritance.genruntimeconfig.cache
+C:\Users\beyza\Desktop\C#\inheritance\obj\Debug\net7.0\ref\inheritance.dll
